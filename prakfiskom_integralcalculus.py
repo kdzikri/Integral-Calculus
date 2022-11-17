@@ -1,3 +1,4 @@
+#Soal: ∫x e^x dx
 # Import needed functions."
 import numpy as np
 from scipy import integrate
